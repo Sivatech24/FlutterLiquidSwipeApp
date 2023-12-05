@@ -1,2 +1,3 @@
-# FlutterLiquidSwipeApp
-FlutterLiquidSwipeApp
+# spec
+
+A new Flutter project.
